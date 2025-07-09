@@ -43,3 +43,21 @@ A modern and user-friendly frontend with:
 📈 Educational researchers analyzing fee/rank trends
 
 📊 Visualization projects in data science or ML models
+
+# ⚙️ Installation & Setup
+
+1. Clone the Repository
+git clone https://github.com/your-username/edudata-explorer.git
+cd edudata-explorer
+
+2. Install Dependencies
+pip install -r requirements.txt
+
+3. Run the Scraper
+python scraper/shiksha_scraper.py
+
+4. Start the API Server
+uvicorn api.main:app --reload
+
+5. Launch the Streamlit Dashboard
+streamlit run frontend/dashboard.py
