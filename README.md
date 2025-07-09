@@ -1,1 +1,1 @@
-# Shiksha.com-Educational-Data-Platform-with-Interactive-Dashboard
+# EduData Explorer – A Full-Stack Educational Data Platform
