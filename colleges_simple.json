@@ -1,0 +1,1250 @@
+[
+    {
+        "name": "IIT Delhi - Indian Institute of Technology",
+        "ranking": "2",
+        "fees": "₹8.00 Lakh",
+        "salary": "₹20.00 Lakh",
+        "card_index": 1,
+        "page": 1
+    },
+    {
+        "name": "IIT Bombay - Indian Institute of Technology",
+        "ranking": "3",
+        "fees": "₹8.00 Lakh",
+        "salary": "₹17.92 Lakh",
+        "card_index": 2,
+        "page": 1
+    },
+    {
+        "name": "IIT Kanpur - Indian Institute of Technology",
+        "ranking": "4",
+        "fees": "₹8.00 Lakh",
+        "salary": null,
+        "card_index": 3,
+        "page": 1
+    },
+    {
+        "name": "IIT Kharagpur - Indian Institute of Technology",
+        "ranking": "5",
+        "fees": "₹8.00 Lakh",
+        "salary": null,
+        "card_index": 4,
+        "page": 1
+    },
+    {
+        "name": "IIT Roorkee - Indian Institute of Technology",
+        "ranking": "6",
+        "fees": "₹8.00 Lakh",
+        "salary": null,
+        "card_index": 5,
+        "page": 1
+    },
+    {
+        "name": "IIT Guwahati - Indian Institute of Technology",
+        "ranking": "7",
+        "fees": "₹8.00 Lakh",
+        "salary": "₹34.50 Lakh",
+        "card_index": 6,
+        "page": 1
+    },
+    {
+        "name": "IIT Hyderabad - Indian Institute of Technology",
+        "ranking": "8",
+        "fees": "₹8.00 Lakh",
+        "salary": "₹21.00 Lakh",
+        "card_index": 7,
+        "page": 1
+    },
+    {
+        "name": "NIT Trichy - National Institute of Technology",
+        "ranking": "9",
+        "fees": "₹5.00 Lakh",
+        "salary": "₹15.76 Lakh",
+        "card_index": 8,
+        "page": 1
+    },
+    {
+        "name": "Indian Institute of Technology, BHU, Varanasi",
+        "ranking": "10",
+        "fees": "₹8.00 Lakh",
+        "salary": null,
+        "card_index": 9,
+        "page": 1
+    },
+    {
+        "name": "VIT Vellore",
+        "ranking": "11",
+        "fees": "₹7.80 Lakh",
+        "salary": null,
+        "card_index": 10,
+        "page": 1
+    },
+    {
+        "name": "Jadavpur University",
+        "ranking": "12",
+        "fees": "₹20,840",
+        "salary": "₹10.00 Lakh",
+        "card_index": 11,
+        "page": 1
+    },
+    {
+        "name": "SRM Institute of Science and Technology, Kattankulathur",
+        "ranking": "13",
+        "fees": "₹11.00 Lakh",
+        "salary": null,
+        "card_index": 12,
+        "page": 1
+    },
+    {
+        "name": "College of Engineering, Anna University",
+        "ranking": "14",
+        "fees": "₹48,000",
+        "salary": "₹7.50 Lakh",
+        "card_index": 13,
+        "page": 1
+    },
+    {
+        "name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
+        "ranking": "15",
+        "fees": "₹8.00 Lakh",
+        "salary": "₹15.00 Lakh",
+        "card_index": 14,
+        "page": 1
+    },
+    {
+        "name": "IIT Indore - Indian Institute of Technology",
+        "ranking": "16",
+        "fees": "₹8.00 Lakh",
+        "salary": "₹21.20 Lakh",
+        "card_index": 15,
+        "page": 1
+    },
+    {
+        "name": "NIT Surathkal - National Institute of Technology",
+        "ranking": "17",
+        "fees": "₹5.00 Lakh",
+        "salary": "₹14.21 Lakh",
+        "card_index": 16,
+        "page": 1
+    },
+    {
+        "name": "IIT Gandhinagar - Indian Institute of Technology",
+        "ranking": "18",
+        "fees": "₹8.00 Lakh",
+        "salary": "₹16.00 Lakh",
+        "card_index": 17,
+        "page": 1
+    },
+    {
+        "name": "NIT Rourkela - National Institute of Technology",
+        "ranking": "19",
+        "fees": "₹5.00 Lakh",
+        "salary": "₹9.00 Lakh",
+        "card_index": 18,
+        "page": 1
+    },
+    {
+        "name": "BITS Pilani - Birla Institute of Technology and Science",
+        "ranking": "20",
+        "fees": "₹20.76 Lakh",
+        "salary": null,
+        "card_index": 19,
+        "page": 1
+    },
+    {
+        "name": "NIT Warangal - National Institute of Technology",
+        "ranking": "21",
+        "fees": "₹5.00 Lakh",
+        "salary": "₹12.00 Lakh",
+        "card_index": 20,
+        "page": 1
+    },
+    {
+        "name": "IIT Ropar - Indian Institute of Technology",
+        "ranking": "22",
+        "fees": "₹8.00 Lakh",
+        "salary": null,
+        "card_index": 21,
+        "page": 1
+    },
+    {
+        "name": "Jamia Millia Islamia",
+        "ranking": "24",
+        "fees": "₹64,600",
+        "salary": "₹11.00 Lakh",
+        "card_index": 22,
+        "page": 1
+    },
+    {
+        "name": "NIT Calicut - National Institute of Technology",
+        "ranking": "25",
+        "fees": "₹5.00 Lakh",
+        "salary": "₹9.00 Lakh",
+        "card_index": 23,
+        "page": 1
+    },
+    {
+        "name": "SOA University - Siksha 'O' Anusandhan",
+        "ranking": "26",
+        "fees": "₹11.80 Lakh",
+        "salary": "₹5.70 Lakh",
+        "card_index": 24,
+        "page": 1
+    },
+    {
+        "name": "DTU - Delhi Technological University",
+        "ranking": "27",
+        "fees": "₹6.87 Lakh",
+        "salary": null,
+        "card_index": 25,
+        "page": 1
+    },
+    {
+        "name": "IIT Jodhpur - Indian Institute of Technology",
+        "ranking": "28",
+        "fees": "₹8.00 Lakh",
+        "salary": null,
+        "card_index": 26,
+        "page": 1
+    },
+    {
+        "name": "Thapar University",
+        "ranking": "29",
+        "fees": "₹19.56 Lakh",
+        "salary": "₹11.89 Lakh",
+        "card_index": 27,
+        "page": 1
+    },
+    {
+        "name": "Amity University, Noida",
+        "ranking": "30",
+        "fees": "₹10.80 Lakh",
+        "salary": null,
+        "card_index": 28,
+        "page": 1
+    },
+    {
+        "name": "IIT Mandi - Indian Institute of Technology",
+        "ranking": "31",
+        "fees": "₹8.00 Lakh",
+        "salary": "₹22.23 Lakh",
+        "card_index": 29,
+        "page": 1
+    },
+    {
+        "name": "Chandigarh University (CU)",
+        "ranking": "32",
+        "fees": "₹11.68 Lakh",
+        "salary": null,
+        "card_index": 30,
+        "page": 1
+    },
+    {
+        "name": "IIT Patna - Indian Institute of Technology",
+        "ranking": "34",
+        "fees": "₹8.00 Lakh",
+        "salary": null,
+        "card_index": 31,
+        "page": 1
+    },
+    {
+        "name": "KL (Deemed to be University)",
+        "ranking": "35",
+        "fees": "₹7.20 Lakh",
+        "salary": null,
+        "card_index": 32,
+        "page": 1
+    },
+    {
+        "name": "Kalasalingam Academy of Research and Education",
+        "ranking": "36",
+        "fees": "₹7.40 Lakh",
+        "salary": "₹6.75 Lakh",
+        "card_index": 33,
+        "page": 1
+    },
+    {
+        "name": "SASTRA (Deemed to be University)",
+        "ranking": "38",
+        "fees": "₹1.35 Lakh",
+        "salary": "₹7.60 Lakh",
+        "card_index": 34,
+        "page": 1
+    },
+    {
+        "name": "VNIT Nagpur - Visvesvaraya National Institute of Technology",
+        "ranking": "39",
+        "fees": "₹5.00 Lakh",
+        "salary": "₹8.27 Lakh",
+        "card_index": 35,
+        "page": 1
+    },
+    {
+        "name": "NIT Silchar - National Institute of Technology",
+        "ranking": "40",
+        "fees": "₹5.00 Lakh",
+        "salary": "₹10.00 Lakh",
+        "card_index": 36,
+        "page": 1
+    },
+    {
+        "name": "Institute of Chemical Technology, Mumbai",
+        "ranking": "41",
+        "fees": "₹60,000",
+        "salary": "₹8.00 Lakh",
+        "card_index": 37,
+        "page": 1
+    },
+    {
+        "name": "UPES",
+        "ranking": "42",
+        "fees": "₹17.71 Lakh",
+        "salary": "₹6.50 Lakh",
+        "card_index": 38,
+        "page": 1
+    },
+    {
+        "name": "MNIT Jaipur - Malaviya National Institute of Technology",
+        "ranking": "43",
+        "fees": "₹5.00 Lakh",
+        "salary": "₹15.50 Lakh",
+        "card_index": 39,
+        "page": 1
+    },
+    {
+        "name": "NIT Delhi - National Institute of Technology",
+        "ranking": "45",
+        "fees": "₹5.00 Lakh",
+        "salary": null,
+        "card_index": 1,
+        "page": 2
+    },
+    {
+        "name": "SSN College of Engineering",
+        "ranking": "46",
+        "fees": "₹2.00 Lakh",
+        "salary": null,
+        "card_index": 2,
+        "page": 2
+    },
+    {
+        "name": "International Institute of Information Technology, Hyderabad",
+        "ranking": "47",
+        "fees": "₹16.00 Lakh",
+        "salary": null,
+        "card_index": 3,
+        "page": 2
+    },
+    {
+        "name": "Birla Institute of Technology, Mesra",
+        "ranking": "48",
+        "fees": "₹13.35 Lakh",
+        "salary": "₹10.58 Lakh",
+        "card_index": 4,
+        "page": 2
+    },
+    {
+        "name": "IIEST Shibpur - Indian Institute of Engineering Science and Technology",
+        "ranking": "49",
+        "fees": "₹5.00 Lakh",
+        "salary": "₹8.50 Lakh",
+        "card_index": 5,
+        "page": 2
+    },
+    {
+        "name": "LPU - Lovely Professional University",
+        "ranking": "50",
+        "fees": "₹11.20 Lakh",
+        "salary": null,
+        "card_index": 6,
+        "page": 2
+    },
+    {
+        "name": "IIST - Indian Institute of Space Science and Technology",
+        "ranking": "51",
+        "fees": "₹6.25 Lakh",
+        "salary": "₹10.50 Lakh",
+        "card_index": 7,
+        "page": 2
+    },
+    {
+        "name": "Graphic Era Deemed to be University",
+        "ranking": "52",
+        "fees": "₹14.80 Lakh",
+        "salary": "₹7.25 Lakh",
+        "card_index": 8,
+        "page": 2
+    },
+    {
+        "name": "Saveetha Institute of Medical and Technical Sciences, Poonamallee",
+        "ranking": "53",
+        "fees": "₹9.00 Lakh",
+        "salary": "₹4.48 Lakh",
+        "card_index": 9,
+        "page": 2
+    },
+    {
+        "name": "IIT Bhubaneswar - Indian Institute of Technology",
+        "ranking": "54",
+        "fees": "₹8.00 Lakh",
+        "salary": "₹11.30 Lakh",
+        "card_index": 10,
+        "page": 2
+    },
+    {
+        "name": "NIT Patna - National Institute of Technology",
+        "ranking": "55",
+        "fees": "₹5.00 Lakh",
+        "salary": null,
+        "card_index": 11,
+        "page": 2
+    },
+    {
+        "name": "Netaji Subhas University of Technology",
+        "ranking": "57",
+        "fees": "₹3.95 Lakh",
+        "salary": null,
+        "card_index": 12,
+        "page": 2
+    },
+    {
+        "name": "National Institute of Technology, Jalandhar",
+        "ranking": "58",
+        "fees": "₹5.00 Lakh",
+        "salary": null,
+        "card_index": 13,
+        "page": 2
+    },
+    {
+        "name": "Sardar Vallabhbhai National Institute of Technology, Surat",
+        "ranking": "59",
+        "fees": "₹5.00 Lakh",
+        "salary": "₹11.00 Lakh",
+        "card_index": 14,
+        "page": 2
+    },
+    {
+        "name": "MNNIT Allahabad - Motilal Nehru National Institute of Technology",
+        "ranking": "60",
+        "fees": "₹6.92 Lakh",
+        "salary": "₹11.40 Lakh",
+        "card_index": 15,
+        "page": 2
+    },
+    {
+        "name": "IIT Tirupati - Indian Institute of Technology",
+        "ranking": "61",
+        "fees": "₹8.00 Lakh",
+        "salary": "₹20.32 Lakh",
+        "card_index": 16,
+        "page": 2
+    },
+    {
+        "name": "IIT Jammu - Indian Institute of Technology",
+        "ranking": "62",
+        "fees": "₹8.00 Lakh",
+        "salary": null,
+        "card_index": 17,
+        "page": 2
+    },
+    {
+        "name": "IIT Palakkad - Indian Institute of Technology",
+        "ranking": "64",
+        "fees": "₹8.00 Lakh",
+        "salary": null,
+        "card_index": 18,
+        "page": 2
+    },
+    {
+        "name": "Manipal University, Jaipur",
+        "ranking": "64",
+        "fees": "₹18.04 Lakh",
+        "salary": "₹8.00 Lakh",
+        "card_index": 19,
+        "page": 2
+    },
+    {
+        "name": "Sathyabama Institute of Science and Technology",
+        "ranking": "66",
+        "fees": null,
+        "salary": null,
+        "card_index": 20,
+        "page": 2
+    },
+    {
+        "name": "PSGCT Coimbatore",
+        "ranking": "67",
+        "fees": "₹2.00 Lakh",
+        "salary": "₹7.00 Lakh",
+        "card_index": 21,
+        "page": 2
+    },
+    {
+        "name": "NIT Meghalaya - National Institute of Technology",
+        "ranking": "68",
+        "fees": "₹5.00 Lakh",
+        "salary": null,
+        "card_index": 22,
+        "page": 2
+    },
+    {
+        "name": "Visvesvaraya Technological University",
+        "ranking": "69",
+        "fees": "₹1.35 Lakh",
+        "salary": null,
+        "card_index": 23,
+        "page": 2
+    },
+    {
+        "name": "UoH - University of Hyderabad",
+        "ranking": "70",
+        "fees": "₹1.97 Lakh",
+        "salary": "₹8.25 Lakh",
+        "card_index": 24,
+        "page": 2
+    },
+    {
+        "name": "NIT Raipur - National Institute of Technology",
+        "ranking": "71",
+        "fees": "₹5.00 Lakh",
+        "salary": "₹8.00 Lakh",
+        "card_index": 25,
+        "page": 2
+    },
+    {
+        "name": "MANIT - Maulana Azad National Institute of Technology",
+        "ranking": "72",
+        "fees": "₹5.00 Lakh",
+        "salary": "₹10.00 Lakh",
+        "card_index": 26,
+        "page": 2
+    },
+    {
+        "name": "IIT Bhilai - Indian Institute of Technology",
+        "ranking": "73",
+        "fees": "₹8.00 Lakh",
+        "salary": null,
+        "card_index": 27,
+        "page": 2
+    },
+    {
+        "name": "International Institute of Information Technology, Bangalore",
+        "ranking": "74",
+        "fees": "₹26.32 Lakh",
+        "salary": "₹27.30 Lakh",
+        "card_index": 28,
+        "page": 2
+    },
+    {
+        "name": "Ramaiah Institute of Technology",
+        "ranking": "75",
+        "fees": "₹10.46 Lakh",
+        "salary": "₹8.00 Lakh",
+        "card_index": 29,
+        "page": 2
+    },
+    {
+        "name": "Sant Longowal Institute of Engineering and Technology",
+        "ranking": "76",
+        "fees": null,
+        "salary": "₹4.00 Lakh",
+        "card_index": 30,
+        "page": 2
+    },
+    {
+        "name": "College of Engineering, Pune",
+        "ranking": "77",
+        "fees": "₹68,000",
+        "salary": "₹9.75 Lakh",
+        "card_index": 31,
+        "page": 2
+    },
+    {
+        "name": "Banasthali Vidyapith",
+        "ranking": "78",
+        "fees": "₹6.16 Lakh",
+        "salary": "₹9.05 Lakh",
+        "card_index": 32,
+        "page": 2
+    },
+    {
+        "name": "NIT Srinagar - National Institute of Technology",
+        "ranking": "79",
+        "fees": "₹5.00 Lakh",
+        "salary": "₹12.00 Lakh",
+        "card_index": 33,
+        "page": 2
+    },
+    {
+        "name": "Rajiv Gandhi Institute of Petroleum Technology",
+        "ranking": "80",
+        "fees": "₹10.77 Lakh",
+        "salary": "₹7.98 Lakh",
+        "card_index": 34,
+        "page": 2
+    },
+    {
+        "name": "NIT Kurukshetra - National Institute of Technology",
+        "ranking": "81",
+        "fees": "₹5.00 Lakh",
+        "salary": "₹10.00 Lakh",
+        "card_index": 35,
+        "page": 2
+    },
+    {
+        "name": "NIT Agartala - National Institute of Technology",
+        "ranking": "82",
+        "fees": "₹5.00 Lakh",
+        "salary": null,
+        "card_index": 36,
+        "page": 2
+    },
+    {
+        "name": "SKCET - Sri Krishna College of Engineering and Technology",
+        "ranking": "83",
+        "fees": "₹2.00 Lakh",
+        "salary": "₹6.00 Lakh",
+        "card_index": 37,
+        "page": 2
+    },
+    {
+        "name": "Madan Mohan Malviya University of Technology",
+        "ranking": "84",
+        "fees": "₹6.00 Lakh",
+        "salary": null,
+        "card_index": 38,
+        "page": 2
+    },
+    {
+        "name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+        "ranking": "85",
+        "fees": "₹19.55 Lakh",
+        "salary": "₹18.50 Lakh",
+        "card_index": 39,
+        "page": 2
+    },
+    {
+        "name": "IIIT Allahabad - Indian Institute of Information Technology",
+        "ranking": "87",
+        "fees": "₹6.48 Lakh",
+        "salary": "₹30.00 Lakh",
+        "card_index": 1,
+        "page": 3
+    },
+    {
+        "name": "Guru Gobind Singh Indraprastha University",
+        "ranking": "89",
+        "fees": "₹4.20 Lakh",
+        "salary": null,
+        "card_index": 2,
+        "page": 3
+    },
+    {
+        "name": "Andhra University College of Engineering , Andhra University, Visakhapatnam",
+        "ranking": "90",
+        "fees": "₹1.78 Lakh",
+        "salary": "₹5.88 Lakh",
+        "card_index": 3,
+        "page": 3
+    },
+    {
+        "name": "Vignan's Foundation for Science, Technology and Research",
+        "ranking": "91",
+        "fees": "₹14.40 Lakh",
+        "salary": "₹6.96 Lakh",
+        "card_index": 4,
+        "page": 3
+    },
+    {
+        "name": "Shoolini University",
+        "ranking": "92",
+        "fees": "₹10.40 Lakh",
+        "salary": null,
+        "card_index": 5,
+        "page": 3
+    },
+    {
+        "name": "Christ - Kengeri Campus",
+        "ranking": "93",
+        "fees": "₹8.76 Lakh",
+        "salary": "₹5.16 Lakh",
+        "card_index": 6,
+        "page": 3
+    },
+    {
+        "name": "Chitkara University, Chandigarh",
+        "ranking": "94",
+        "fees": "₹7.20 Lakh",
+        "salary": "₹8.50 Lakh",
+        "card_index": 7,
+        "page": 3
+    },
+    {
+        "name": "Jain Deemed-to-be University, Bangalore",
+        "ranking": "95",
+        "fees": "₹7.80 Lakh",
+        "salary": "₹7.78 Lakh",
+        "card_index": 8,
+        "page": 3
+    },
+    {
+        "name": "C. V. Raman Global University",
+        "ranking": "96",
+        "fees": "₹9.00 Lakh",
+        "salary": "₹5.20 Lakh",
+        "card_index": 9,
+        "page": 3
+    },
+    {
+        "name": "NIT Puducherry - National Institute of Technology",
+        "ranking": "97",
+        "fees": "₹5.00 Lakh",
+        "salary": "₹9.00 Lakh",
+        "card_index": 10,
+        "page": 3
+    },
+    {
+        "name": "SR University",
+        "ranking": "98",
+        "fees": "₹4.37 Lakh",
+        "salary": "₹10.00 Lakh",
+        "card_index": 11,
+        "page": 3
+    },
+    {
+        "name": "R.V. College of Engineering",
+        "ranking": "99",
+        "fees": "₹1.28 Lakh",
+        "salary": "₹10.00 Lakh",
+        "card_index": 12,
+        "page": 3
+    },
+    {
+        "name": "Siddaganga Institute of Technology",
+        "ranking": "100",
+        "fees": "₹3.86 Lakh",
+        "salary": "₹8.00 Lakh",
+        "card_index": 13,
+        "page": 3
+    },
+    {
+        "name": "Amity University, Kolkata",
+        "ranking": "101",
+        "fees": "₹8.56 Lakh",
+        "salary": null,
+        "card_index": 14,
+        "page": 3
+    },
+    {
+        "name": "Amity University, Gurugram",
+        "ranking": "101",
+        "fees": "₹12.60 Lakh",
+        "salary": "₹3.60 Lakh",
+        "card_index": 15,
+        "page": 3
+    },
+    {
+        "name": "Amity University, Jaipur",
+        "ranking": "101",
+        "fees": "₹12.72 Lakh",
+        "salary": "₹6.00 Lakh",
+        "card_index": 16,
+        "page": 3
+    },
+    {
+        "name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management",
+        "ranking": "101",
+        "fees": "₹7.90 Lakh",
+        "salary": null,
+        "card_index": 17,
+        "page": 3
+    },
+    {
+        "name": "Chandigarh Group of Colleges, Landran",
+        "ranking": "101",
+        "fees": "₹6.58 Lakh",
+        "salary": null,
+        "card_index": 18,
+        "page": 3
+    },
+    {
+        "name": "Chennai Institute of Technology",
+        "ranking": "101",
+        "fees": "₹2.00 Lakh",
+        "salary": null,
+        "card_index": 19,
+        "page": 3
+    },
+    {
+        "name": "Coimbatore Institute of Technology",
+        "ranking": "101",
+        "fees": "₹1.04 Lakh",
+        "salary": "₹5.78 Lakh",
+        "card_index": 20,
+        "page": 3
+    },
+    {
+        "name": "College of Engineering, Trivandrum",
+        "ranking": "101",
+        "fees": "₹34,600",
+        "salary": null,
+        "card_index": 21,
+        "page": 3
+    },
+    {
+        "name": "MIT-WPU",
+        "ranking": "101",
+        "fees": "₹14.80 Lakh",
+        "salary": "₹6.00 Lakh",
+        "card_index": 22,
+        "page": 3
+    },
+    {
+        "name": "Galgotias University",
+        "ranking": "101",
+        "fees": "₹6.16 Lakh",
+        "salary": null,
+        "card_index": 23,
+        "page": 3
+    },
+    {
+        "name": "GITAM School of Technology, Visakhapatnam",
+        "ranking": "101",
+        "fees": "₹12.21 Lakh",
+        "salary": null,
+        "card_index": 24,
+        "page": 3
+    },
+    {
+        "name": "GRIET Hyderabad",
+        "ranking": "101",
+        "fees": "₹5.20 Lakh",
+        "salary": "₹6.00 Lakh",
+        "card_index": 25,
+        "page": 3
+    },
+    {
+        "name": "Hindustan Institute of Technology and Science",
+        "ranking": "101",
+        "fees": "₹9.30 Lakh",
+        "salary": "₹4.50 Lakh",
+        "card_index": 26,
+        "page": 3
+    },
+    {
+        "name": "IIITDM Kancheepuram - Indian Institute of Information Technology Design & Manufacturing",
+        "ranking": "101",
+        "fees": "₹6.48 Lakh",
+        "salary": null,
+        "card_index": 27,
+        "page": 3
+    },
+    {
+        "name": "IIT Dharwad - Indian Institute of Technology",
+        "ranking": "101",
+        "fees": "₹8.00 Lakh",
+        "salary": "₹10.00 Lakh",
+        "card_index": 28,
+        "page": 3
+    },
+    {
+        "name": "Jawaharlal Nehru Technological University, Kakinada",
+        "ranking": "101",
+        "fees": "₹1.80 Lakh",
+        "salary": "₹4.46 Lakh",
+        "card_index": 29,
+        "page": 3
+    },
+    {
+        "name": "Jaypee Institute of Information Technology",
+        "ranking": "101",
+        "fees": "₹12.73 Lakh",
+        "salary": "₹6.50 Lakh",
+        "card_index": 30,
+        "page": 3
+    },
+    {
+        "name": "Karunya Institute of Technology and Sciences",
+        "ranking": "101",
+        "fees": "₹11.74 Lakh",
+        "salary": "₹3.50 Lakh",
+        "card_index": 31,
+        "page": 3
+    },
+    {
+        "name": "KEC - Kongu Engineering College",
+        "ranking": "101",
+        "fees": "₹2.00 Lakh",
+        "salary": "₹4.50 Lakh",
+        "card_index": 32,
+        "page": 3
+    },
+    {
+        "name": "KPR Institute of Engineering and Technology",
+        "ranking": "101",
+        "fees": null,
+        "salary": null,
+        "card_index": 33,
+        "page": 3
+    },
+    {
+        "name": "Mahindra University",
+        "ranking": "101",
+        "fees": "₹20.00 Lakh",
+        "salary": null,
+        "card_index": 34,
+        "page": 3
+    },
+    {
+        "name": "Manav Rachna International Institute of Research & Studies",
+        "ranking": "101",
+        "fees": "₹8.02 Lakh",
+        "salary": "₹4.25 Lakh",
+        "card_index": 35,
+        "page": 3
+    },
+    {
+        "name": "MAKAUT - Maulana Abul Kalam Azad University of Technology",
+        "ranking": "101",
+        "fees": "₹2.40 Lakh",
+        "salary": "₹4.50 Lakh",
+        "card_index": 36,
+        "page": 3
+    },
+    {
+        "name": "Mepco Schlenk Engineering College",
+        "ranking": "101",
+        "fees": "₹2.00 Lakh",
+        "salary": "₹5.00 Lakh",
+        "card_index": 37,
+        "page": 3
+    },
+    {
+        "name": "NIT Arunachal Pradesh - National Institute of Technology",
+        "ranking": "101",
+        "fees": "₹5.00 Lakh",
+        "salary": null,
+        "card_index": 38,
+        "page": 3
+    },
+    {
+        "name": "NIT Goa - National Institute of Technology",
+        "ranking": "101",
+        "fees": "₹5.00 Lakh",
+        "salary": null,
+        "card_index": 39,
+        "page": 3
+    },
+    {
+        "name": "NIT Manipur - National Institute of Technology",
+        "ranking": "101",
+        "fees": "₹5.00 Lakh",
+        "salary": null,
+        "card_index": 1,
+        "page": 4
+    },
+    {
+        "name": "NIT Mizoram - National Institute of Technology",
+        "ranking": "101",
+        "fees": "₹5.00 Lakh",
+        "salary": null,
+        "card_index": 2,
+        "page": 4
+    },
+    {
+        "name": "National Institute of Technology, Uttarakhand",
+        "ranking": "101",
+        "fees": "₹5.00 Lakh",
+        "salary": "₹11.00 Lakh",
+        "card_index": 3,
+        "page": 4
+    },
+    {
+        "name": "NIT Jamshedpur - National Institute of Technology",
+        "ranking": "101",
+        "fees": null,
+        "salary": "₹9.50 Lakh",
+        "card_index": 4,
+        "page": 4
+    },
+    {
+        "name": "NITTE Meenakshi Institute of Technology",
+        "ranking": "101",
+        "fees": "₹9.00 Lakh",
+        "salary": null,
+        "card_index": 5,
+        "page": 4
+    },
+    {
+        "name": "Noida Institute of Engineering and Technology (NIET)",
+        "ranking": "101",
+        "fees": "₹4.74 Lakh",
+        "salary": "₹4.52 Lakh",
+        "card_index": 6,
+        "page": 4
+    },
+    {
+        "name": "IIITDM Jabalpur - Indian Institute of Information Technology Design and Manufacturing",
+        "ranking": "101",
+        "fees": "₹5.74 Lakh",
+        "salary": null,
+        "card_index": 7,
+        "page": 4
+    },
+    {
+        "name": "Panjab University",
+        "ranking": "101",
+        "fees": "₹99,710",
+        "salary": null,
+        "card_index": 8,
+        "page": 4
+    },
+    {
+        "name": "PES University",
+        "ranking": "101",
+        "fees": "₹18.00 Lakh",
+        "salary": "₹8.00 Lakh",
+        "card_index": 9,
+        "page": 4
+    },
+    {
+        "name": "PSG Institute of Technology and Applied Research",
+        "ranking": "101",
+        "fees": "₹2.00 Lakh",
+        "salary": "₹5.00 Lakh",
+        "card_index": 10,
+        "page": 4
+    },
+    {
+        "name": "Punjab Engineering College, Chandigarh",
+        "ranking": "101",
+        "fees": "₹7.04 Lakh",
+        "salary": "₹12.00 Lakh",
+        "card_index": 11,
+        "page": 4
+    },
+    {
+        "name": "Rajalakshmi Engineering College",
+        "ranking": "101",
+        "fees": null,
+        "salary": "₹4.71 Lakh",
+        "card_index": 12,
+        "page": 4
+    },
+    {
+        "name": "Sharda University",
+        "ranking": "101",
+        "fees": "₹12.55 Lakh",
+        "salary": "₹3.35 Lakh",
+        "card_index": 13,
+        "page": 4
+    },
+    {
+        "name": "Sri Sairam Engineering College",
+        "ranking": "101",
+        "fees": "₹2.00 Lakh",
+        "salary": "₹4.60 Lakh",
+        "card_index": 14,
+        "page": 4
+    },
+    {
+        "name": "The NorthCap University",
+        "ranking": "101",
+        "fees": "₹9.89 Lakh",
+        "salary": "₹5.20 Lakh",
+        "card_index": 15,
+        "page": 4
+    },
+    {
+        "name": "Thiagarajar College of Engineering",
+        "ranking": "101",
+        "fees": "₹34,400",
+        "salary": "₹6.33 Lakh",
+        "card_index": 16,
+        "page": 4
+    },
+    {
+        "name": "University College of Engineering, Adikavi Nannaya University",
+        "ranking": "101",
+        "fees": "₹1.40 Lakh",
+        "salary": "₹4.80 Lakh",
+        "card_index": 17,
+        "page": 4
+    },
+    {
+        "name": "Veermata Jijabai Technological Institute - VJTI Mumbai",
+        "ranking": "101",
+        "fees": "₹60,000",
+        "salary": null,
+        "card_index": 18,
+        "page": 4
+    },
+    {
+        "name": "VELS Institute of Science, Technology and Advanced Studies (VISTAS)",
+        "ranking": "101",
+        "fees": "₹4.64 Lakh",
+        "salary": null,
+        "card_index": 19,
+        "page": 4
+    },
+    {
+        "name": "Annamalai University",
+        "ranking": "151",
+        "fees": "₹2.00 Lakh",
+        "salary": "₹3.83 Lakh",
+        "card_index": 20,
+        "page": 4
+    },
+    {
+        "name": "Crescent School of Life Sciences (B.S.Abdur Rahman University)",
+        "ranking": "151",
+        "fees": "₹1.50 Lakh",
+        "salary": "₹4.25 Lakh",
+        "card_index": 21,
+        "page": 4
+    },
+    {
+        "name": "Anurag University",
+        "ranking": "151",
+        "fees": "₹11.40 Lakh",
+        "salary": null,
+        "card_index": 22,
+        "page": 4
+    },
+    {
+        "name": "BMS College of Engineering",
+        "ranking": "151",
+        "fees": "₹10.46 Lakh",
+        "salary": "₹9.00 Lakh",
+        "card_index": 23,
+        "page": 4
+    },
+    {
+        "name": "Vishwakarma Institute of Information Technology",
+        "ranking": "151",
+        "fees": "₹6.19 Lakh",
+        "salary": "₹6.40 Lakh",
+        "card_index": 24,
+        "page": 4
+    },
+    {
+        "name": "Bharati Vidyapeeths College of Engineering",
+        "ranking": "151",
+        "fees": "₹3.48 Lakh",
+        "salary": "₹5.38 Lakh",
+        "card_index": 25,
+        "page": 4
+    },
+    {
+        "name": "CMR Institute of Technology, Bangalore",
+        "ranking": "151",
+        "fees": "₹3.86 Lakh",
+        "salary": null,
+        "card_index": 26,
+        "page": 4
+    },
+    {
+        "name": "Chaitanya Bharathi Institute of Technology, Hyderabad",
+        "ranking": "151",
+        "fees": "₹5.60 Lakh",
+        "salary": "₹6.30 Lakh",
+        "card_index": 27,
+        "page": 4
+    },
+    {
+        "name": "CVR College of Engineering",
+        "ranking": "151",
+        "fees": "₹6.00 Lakh",
+        "salary": "₹4.50 Lakh",
+        "card_index": 28,
+        "page": 4
+    },
+    {
+        "name": "Dayalbagh Educational Institute [DEI]",
+        "ranking": "151",
+        "fees": "₹27,840",
+        "salary": "₹5.20 Lakh",
+        "card_index": 29,
+        "page": 4
+    },
+    {
+        "name": "Dr. D. Y. Patil Institute Of Technology",
+        "ranking": "151",
+        "fees": "₹3.60 Lakh",
+        "salary": null,
+        "card_index": 30,
+        "page": 4
+    },
+    {
+        "name": "SRM Easwari Engineering College",
+        "ranking": "151",
+        "fees": "₹2.00 Lakh",
+        "salary": "₹5.28 Lakh",
+        "card_index": 31,
+        "page": 4
+    },
+    {
+        "name": "G.H. Raisoni College of Engineering, Nagpur",
+        "ranking": "151",
+        "fees": "₹6.81 Lakh",
+        "salary": null,
+        "card_index": 32,
+        "page": 4
+    },
+    {
+        "name": "GLA University",
+        "ranking": "151",
+        "fees": "₹9.50 Lakh",
+        "salary": "₹5.50 Lakh",
+        "card_index": 33,
+        "page": 4
+    },
+    {
+        "name": "G.L. Bajaj Institute of Technology and Management",
+        "ranking": "151",
+        "fees": "₹2.45 Lakh",
+        "salary": "₹4.50 Lakh",
+        "card_index": 34,
+        "page": 4
+    },
+    {
+        "name": "IIIT Guwahati - Indian Institute of Information Technology, Assam",
+        "ranking": "151",
+        "fees": "₹11.00 Lakh",
+        "salary": "₹13.65 Lakh",
+        "card_index": 35,
+        "page": 4
+    },
+    {
+        "name": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+        "ranking": "151",
+        "fees": "₹5.24 Lakh",
+        "salary": null,
+        "card_index": 36,
+        "page": 4
+    },
+    {
+        "name": "Institute of Aeronautical Engineering",
+        "ranking": "151",
+        "fees": "₹3.60 Lakh",
+        "salary": "₹4.50 Lakh",
+        "card_index": 37,
+        "page": 4
+    },
+    {
+        "name": "Institute of Engineering and Management",
+        "ranking": "151",
+        "fees": "₹4.17 Lakh",
+        "salary": "₹6.00 Lakh",
+        "card_index": 38,
+        "page": 4
+    },
+    {
+        "name": "J. C. Bose University of Science and Technology, YMCA",
+        "ranking": "151",
+        "fees": "₹2.97 Lakh",
+        "salary": "₹6.00 Lakh",
+        "card_index": 39,
+        "page": 4
+    }
+]
