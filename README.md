@@ -2,6 +2,10 @@
 
 EduData Explorer is an end-to-end educational data platform that automates the extraction, structuring, querying, and visualization of college and course information from Shiksha.com. Designed for students, researchers, career counselors, and data enthusiasts, this project empowers users with real-time education data analytics through a robust web scraping engine, RESTful API, and interactive Streamlit dashboard.
 
+# Website
+
+https://www.shiksha.com/engineering/ranking/top-engineering-colleges-in-india/44-2-0-0-0
+
 # 🎯 Project Motivation
 
 In India and globally, students often struggle with scattered, inconsistent, or outdated college data. This project aims to:
