@@ -63,6 +63,6 @@ python scraper/shiksha_scraper.py
    
 uvicorn api.main:app --reload
 
-6. Launch the Streamlit Dashboard
+5. Launch the Streamlit Dashboard
    
 streamlit run frontend/dashboard.py
