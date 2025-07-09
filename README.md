@@ -21,16 +21,25 @@ In India and globally, students often struggle with scattered, inconsistent, or 
 # 📊 Streamlit Dashboard
 
 A modern and user-friendly frontend with:
+
 🔍 College search and dynamic filtering
+
 📍 Location-based filtering and map plots
+
 💰 Fee range sliders and course filters
+
 ⭐ Multi-college comparison charts
+
 📈 Trend visualizations for rankings, popularity, and fees
+
 🔄 Real-time updates using the FastAPI endpoints
 
 # 📌 Use Cases
 
 🧑‍🎓 Students comparing colleges across cities or streams
+
 🏫 Career counselors presenting college options to clients
+
 📈 Educational researchers analyzing fee/rank trends
+
 📊 Visualization projects in data science or ML models
